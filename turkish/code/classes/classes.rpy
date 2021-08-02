@@ -4,33 +4,33 @@ translate turkish strings:
 
     # game/code/classes/classes.rpy:117
     old "sister"
-    new "sister"
+    new "kız kardeş"
 
     # game/code/classes/classes.rpy:117
     old "best friend{#female}"
-    new "best friend{#female}"
+    new "en yakın arkadaş{#kadın}"
 
     # game/code/classes/classes.rpy:120
     old "brother"
-    new "brother"
+    new "erkek kardeş"
 
     # game/code/classes/classes.rpy:120
     old "best friend{#male}"
-    new "best friend{#male}"
+    new "en yakın arkadaş{#erkek}"
 
     # game/code/classes/classes.rpy:129
     old "sis"
-    new "sis"
+    new "kardeş"
 
     # game/code/classes/classes.rpy:129
     old "friend{#female}"
-    new "friend{#female}"
+    new "arkadaş{#kadın}"
 
     # game/code/classes/classes.rpy:132
     old "bro"
-    new "bro"
+    new "kardeş"
 
     # game/code/classes/classes.rpy:132
     old "friend{#male}"
-    new "friend{#male}"
+    new "arkadaş{#erkek}"
 
